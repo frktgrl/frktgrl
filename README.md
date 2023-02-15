@@ -5,6 +5,7 @@ I'm Faruk Tuğrul. Software Engineer.
 
 
 ![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frktgrl&show_icons=true)
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frktgrl&layout=compact&hide=html,css" alt="My Top Langs" />
 
 ## Graduation
 
