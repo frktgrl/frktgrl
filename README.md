@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**frktgrl/frktgrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Faruk Tuğrul. Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frktgrl&show_icons=true)
+
+## Graduation
+
+B.S in Software Engineering |  [İstanbul Altinbas University]
+
+B.S in Architecture         |  [İstanbul Altinbas University]
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+(https://www.linkedin.com/in/faruk-tu%C4%9Frul-b87a80183/)
+
