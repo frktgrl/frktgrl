@@ -16,6 +16,6 @@ B.S in Architecture         |  [İstanbul Altinbas University]
 ## Contact Me 📫
 
 You can find and get touch with me via Linkedin and Instagram!
-
-(https://www.linkedin.com/in/faruk-tu%C4%9Frul-b87a80183/)
+       
+[![Linkedin Badge](https://img.shields.io/badge/faruktgrl-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faruktgrl/)
 
