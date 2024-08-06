@@ -1,6 +1,5 @@
-### Hi! Welcome to my github page. 👋
 
-# Contact Me 📫
+## Contact Me 📫
 
 I'm Faruk Tuğrul. Software Engineer.
 
