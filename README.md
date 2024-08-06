@@ -4,9 +4,6 @@
 I'm Faruk Tuğrul. Software Engineer.
 
 
-![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frktgrl&show_icons=true)
-
-
 ## My Langs
 
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frktgrl&layout=compact&hide=html,css" alt="My Top Langs" />
@@ -18,6 +15,8 @@ B.S in Software Engineering |  [İstanbul Altinbas University]
 
 B.S in Architecture         |  [İstanbul Altinbas University]
 
+
+![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frktgrl&show_icons=true)
 
 ## Contact Me 📫
 
