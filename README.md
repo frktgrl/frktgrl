@@ -1,7 +1,13 @@
 ### Hi! Welcome to my github page. 👋
 
+# Contact Me 📫
 
 I'm Faruk Tuğrul. Software Engineer.
+
+You can find and get touch with me via Linkedin and Instagram!
+       
+[![Linkedin Badge](https://img.shields.io/badge/faruktgrl-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faruktgrl/)
+
 
 
 ## My Langs
@@ -19,10 +25,4 @@ B.S in Architecture         |  [İstanbul Altinbas University]
 ## GitHub Stats
 
 ![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frktgrl&show_icons=true)
-
-## Contact Me 📫
-
-You can find and get touch with me via Linkedin and Instagram!
-       
-[![Linkedin Badge](https://img.shields.io/badge/faruktgrl-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faruktgrl/)
 
