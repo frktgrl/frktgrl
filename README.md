@@ -16,6 +16,8 @@ B.S in Software Engineering |  [İstanbul Altinbas University]
 B.S in Architecture         |  [İstanbul Altinbas University]
 
 
+## GitHub Stats
+
 ![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frktgrl&show_icons=true)
 
 ## Contact Me 📫
